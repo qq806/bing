@@ -1,0 +1,36 @@
+[
+  {
+    "name": "🌞┃日后·电视直播",
+    "type": 0,
+    "url": "http://rihou.cc:567/gggg.nzk",
+    "playerType": 1
+  },
+  {
+    "name": "紫气东来TV",
+    "url": "https://d.kstore.dev/download/9246/%E7%B4%AB%E6%B0%94%E4%B8%9C%E6%9D%A5%E7%9B%B4%E6%92%AD.txt&&&https://d.kstore.dev/download/9246/%E7%B4%AB%E6%B0%94%E7%9B%B4%E6%92%AD%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%87.jpg"
+  },
+  {
+    "name": "三哥直播",
+    "url": "https://9246.kstore.space/%E9%BB%91%E8%BD%AF.txt"
+  },
+  {
+    "name": "挺好接口1",
+    "url": "https://d.kstore.dev/download/9246/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3+%282%29.txt"
+  },
+  {
+    "name": "挺好接口2",
+    "url": "https://9246.kstore.space/xianxianyusi.txt"
+  },
+  {
+    "name": "直播自动更新",
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt"
+  },
+  {
+    "name": "小岭密码888999",
+    "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt"
+  },
+  {
+    "name": "正在开发中...",
+    "url": "TV"
+  }
+]
