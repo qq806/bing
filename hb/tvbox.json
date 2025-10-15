@@ -115,7 +115,17 @@
       "ext": {
         "site": "https://mihdr.top/"
       }
-    },
+    },   
+    {      
+   "key": "蜡笔",      
+   "name": "蜡笔|4k网盘",      
+   "type": 3,      
+   "playerType": 2,      
+   "api": "csp_Mogg",      
+   "ext": {        
+   "site": "https://feimao888.fun/"      
+}    
+},
     {
       "key": "多多",
       "name": "多多|4k网盘",
