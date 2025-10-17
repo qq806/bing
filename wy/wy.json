@@ -2,14 +2,7 @@
   "spider": "./lib/wy.jar;md5;cf508526f85d11baba89e483b45ee0de",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-  "sites": [ {
-            "key": "豆瓣", 
-            "name": "彬彬祝你观影愉快", 
-            "type": 3, 
-            "api": "csp_Douban", 
-            "searchable": 0
-        }, 
-
+  "sites": [
     {
       "key": "配置中心1",
       "name": "OK┃中心",
@@ -423,16 +416,7 @@
         "type": "rect",
         "ratio": 1.597
       }
-    }, {
-            "key": "瓜子影视", 
-            "name": "瓜子影视", 
-            "type": 3, 
-            "api": "csp_Gz360", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
-
+    },
     {
       "key": "小斑快映",
       "name": "快映｜4K弹幕",
