@@ -1,8 +1,6 @@
 {
     "spider": "./lib/wyxsa.php;md5;cf508526f85d11baba89e483b45ee0de", 
-    "wallpaper": "http://yoyo.gom.hr/yoyobz.php", 
-    "logo": "http://php.540734621.xyz/logo/logo.php", 
-    "warningText": "", 
+   
     "sites": [
         {
             "key": "豆瓣", 
@@ -1417,16 +1415,7 @@
       "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09",
       "jar": "http://47.120.41.246:8025/vip/jar/banhu.php"
     }
-,
-              {
-            "key": "push_agent", 
-            "name": "手机｜推送", 
-            "type": 3, 
-            "api": "csp_Push", 
-            "searchable": 0, 
-            "filterable": 0, 
-            "changeable": 0
-        }    ], 
+  ], 
     "lives": [
         {
             "name": "无意云综合EXO", 
@@ -1914,4 +1903,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
