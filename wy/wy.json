@@ -1903,6 +1903,12 @@
       "url": "https://gitee.com/yimi321/uz/raw/master/lib/yimi_tv.png",
       "playerType": 2,
       "timeout": 10
+    },{
+      "name": "广东电信",
+      "type": 0,
+      "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/qq806/bing/main/TV/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt",
+      "playerType": 2,
+      "timeout": 10
     },
     {
       "name": "全网通",
