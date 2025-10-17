@@ -436,7 +436,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/wog.json?"
+      "ext": "./lib/wogg.json?"
     },
     {
       "key": "木偶",
@@ -446,7 +446,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/mogg.json?"
+      "ext": "./lib/mogg.json?"
     },
     {
       "key": "蜡笔",
@@ -457,7 +457,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/lb.json?"
+      "ext": "./lib/lb.json?"
     },
     {
       "key": "至臻",
@@ -468,7 +468,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/zz.json?"
+      "ext": "./lib/zz.json?"
     },
     {
       "key": "多多",
@@ -479,7 +479,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/yyds.json?"
+      "ext": "./lib/yyds.json?"
     },
     {
       "key": "欧哥",
@@ -490,7 +490,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/og.json?"
+      "ext": "./lib/og.json?"
     },
     {
       "key": "二小",
@@ -501,7 +501,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/ex.json?"
+      "ext": "./lib/ex.json?"
     },
     {
       "key": "虎斑",
@@ -512,7 +512,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/hb.json?"
+      "ext": "./lib/hb.json?"
     },
     {
       "key": "下饭",
@@ -523,7 +523,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/xf.json?"
+      "ext": "./lib/xf.json?"
     },
     {
       "key": "团长",
@@ -548,7 +548,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "./json/lj.json?"
+      "ext": "./lib/lj.json?"
     },
     {
       "key": "概念",
@@ -563,7 +563,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "./json/hm.json?"
+      "ext": "./lib/hm.json?"
     },
     {
       "key": "夸父",
@@ -593,7 +593,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "./json/pan1.json?"
+      "ext": "./lib/pan1.json?"
     },
     {
       "key": "趣盘",
@@ -702,7 +702,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./lib/123.json"
     },
     {
       "key": "百度盘搜",
