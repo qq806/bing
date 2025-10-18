@@ -35,11 +35,6 @@ CCTV4美洲,rtp://239.3.1.214:4220
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
-CHC影迷电影,
-CETV1综合教育,
-CETV2空中课堂,
-CETV3教育服务,
-CETV4职业教育,
 港澳台,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -236,3 +231,4 @@ CCTV8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
 测试,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1759578017&sign=10b01d2bed04ddd237feaedc75e14c66
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
