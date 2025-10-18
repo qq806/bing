@@ -322,14 +322,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "直播转点播",
-      "name": "花花┃直播",
-      "type": 3,
-      "searchable": 0,
-      "api": "./lib/live2vod.js",
-      "ext": "./lib/fm.json"
-    },
+   {
+            "key": "直播转点播",
+            "name": "花花┃直播",
+            "type": 3,
+            "searchable": 0,
+            "api": "./lib/live2vod.js",
+            "ext": "https://git.acwing.com/lb8006/pg/-/raw/main/lib/fm.json"
+        },
     {
       "key": "lf_live10_min",
       "name": "路飞丨直播",
@@ -352,14 +352,7 @@
       "filterable": 0,
       "ext": " ./lib/zb.json"
     },
-    {
-      "key": "味精",
-      "name": "味精┃直播┃自营",
-      "type": 3,
-      "api": "./lib/sdtv.js",
-      "ext": "./lib/线路直播.txt",
-      "jar": "./lib/sdtv.jar"
-    },
+    
     {
       "key": "至尊",
       "name": "至尊|4K弹幕",
