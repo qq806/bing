@@ -1,5 +1,5 @@
 超清,#genre#
-卫视4K,http://183.207.249.71/PLTV/4/224/3221228900/1.m3u8
+欢笑剧场4K超高清,http://www.kaniptv.cn/cqyx.php?id=hxjc_4K
 湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=hunws4k&token=0125d9fbf2427fc887d5d160017d7c28
 浙江卫视4K,http://iptv.cqshushu.com/migu.php?pid=zjws4k&token=0125d9fbf2427fc887d5d160017d7c28
 江苏卫视4K,http://iptv.cqshushu.com/migu.php?pid=jsws4k&token=0125d9fbf2427fc887d5d160017d7c28
@@ -2204,5 +2204,6 @@ IPTV电视剧,rtp://235.254.199.74:7980$1920×1080
 百事通宣传2,rtp://235.254.197.235:7980$1920×1080
 百事通预告,rtp://235.254.197.51:7980$720×576
 精彩影视,rtp://235.254.199.250:7980$1920×1080
+
 
 
