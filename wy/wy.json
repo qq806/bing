@@ -1557,9 +1557,9 @@
       "timeout": 10
     },
      {      
-"name": "ipv66",      
+"name": "wyzb",      
 "type": 0,      
-"url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",      
+"url": "./lib/wyzb.txt",      
 "playerType": 2,      
 "timeout": 10    
 },
