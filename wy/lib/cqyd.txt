@@ -2,7 +2,21 @@
 ipv6央视高清，#you#
 
 
-CCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001451/index.m3u8?AceCCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?Ace深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?Ace深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?Ace广东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?Ace广东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?Ace北京卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?Ace浙江卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?Ace湖南卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?Ace江苏卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?Ace四川卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?Ace东方卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?Ace山东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001582/index.m3u8?AceCCTV16 4K,https://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?Ace欢笑剧场4K,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?Ace
+CCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001451/index.m3u8?Ace
+CCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?Ace
+深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?Ace
+深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?Ace
+广东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?Ace
+广东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?Ace
+北京卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?Ace
+浙江卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?Ace
+湖南卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?Ace
+江苏卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?Ace
+四川卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?Ace
+东方卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?Ace
+山东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001582/index.m3u8?Ace
+CTV16 4K,https://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?Ace
+欢笑剧场4K,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?Ace
 cctv1,https://4k.11cn.dpdns.org/1.m3u8
 cctv2,https://4k.11cn.dpdns.org/2.m3u8
 cctv3,https://4k.11cn.dpdns.org/3.m3u8
@@ -2288,6 +2302,7 @@ IPTV电视剧,rtp://235.254.199.74:7980$1920×1080
 百事通宣传2,rtp://235.254.197.235:7980$1920×1080
 百事通预告,rtp://235.254.197.51:7980$720×576
 精彩影视,rtp://235.254.199.250:7980$1920×1080
+
 
 
 
