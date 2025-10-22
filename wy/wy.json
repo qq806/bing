@@ -8,7 +8,7 @@
       "name": "OK┃中心",
       "type": 3,
       "jar": "./lib/ok.jar",
-      "api": "csp_ConfigGuard",
+      "api": "csp_ConfigGuard",  
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
