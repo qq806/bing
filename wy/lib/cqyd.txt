@@ -1,7 +1,143 @@
-
 ipv6央视高清，#genre#
+中学生,http://www.kaniptv.cn/cqyx.php?id=qicai
+发现之旅,http://www.kaniptv.cn/cqyx.php?id=faxian
+老故事,http://www.kaniptv.cn/cqyx.php?id=gushi
+书画,http://www.kaniptv.cn/cqyx.php?id=shuhua
+摄影,http://www.kaniptv.cn/cqyx.php?id=sheying
+国学,http://www.kaniptv.cn/cqyx.php?id=guoxue
+靓妆,http://www.kaniptv.cn/cqyx.php?id=liang
+网络棋牌,http://www.kaniptv.cn/cqyx.php?id=qipai
+新动漫,http://www.kaniptv.cn/cqyx.php?id=dongman
+优优宝贝(原:游戏竞技),http://www.kaniptv.cn/cqyx.php?id=youxi
+中华特产,http://www.kaniptv.cn/cqyx.php?id=techan
+环球奇观(原:极速汽车),http://www.kaniptv.cn/cqyx.php?id=car
+生态环境,http://www.kaniptv.cn/cqyx.php?id=shengtai
+四海钓鱼,http://www.kaniptv.cn/cqyx.php?id=diaoyu
+中国气象,http://www.kaniptv.cn/cqyx.php?id=tianqiSD
+车迷频道,http://www.kaniptv.cn/cqyx.php?id=doxtv
 
-CCTV4kK,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=$HEVC
+SiTV欢笑剧场4K,http://www.kaniptv.cn/cqyx.php?id=hxjc_4K
+
+CCTV4K,http://www.kaniptv.cn/cqyx.php?id=CCTV4K
+CCTV16-4K,http://www.kaniptv.cn/cqyx.php?id=CCTV16_4k
+CCTV-1高清,http://www.kaniptv.cn/cqyx.php?id=cctv1HD
+CCTV-2高清,http://www.kaniptv.cn/cqyx.php?id=cctv2HD
+CCTV-3高清,http://www.kaniptv.cn/cqyx.php?id=cctv3HD
+CCTV-4高清,http://www.kaniptv.cn/cqyx.php?id=cctv4HD
+CCTV-5高清,http://www.kaniptv.cn/cqyx.php?id=cctv5HD
+CCTV-5+高清,http://www.kaniptv.cn/cqyx.php?id=cctv5SportHD
+CCTV-6高清,http://www.kaniptv.cn/cqyx.php?id=cctv6HD
+CCTV-7高清,http://www.kaniptv.cn/cqyx.php?id=cctv7HD
+CCTV-8高清,http://www.kaniptv.cn/cqyx.php?id=cctv8HD
+CCTV-9高清,http://www.kaniptv.cn/cqyx.php?id=cctv9HD
+CCTV-10高清,http://www.kaniptv.cn/cqyx.php?id=cctv10HD
+CCTV-11高清,http://www.kaniptv.cn/cqyx.php?id=cctv11HD
+CCTV-12高清,http://www.kaniptv.cn/cqyx.php?id=cctv12HD
+CCTV-13高清,http://www.kaniptv.cn/cqyx.php?id=CCTVNewsHD
+CCTV-14高清,http://www.kaniptv.cn/cqyx.php?id=cctvseHD
+CCTV-15高清,http://www.kaniptv.cn/cqyx.php?id=cctv15HD
+CCTV-16高清,http://www.kaniptv.cn/cqyx.php?id=cctv16HD
+CCTV-17高清,http://www.kaniptv.cn/cqyx.php?id=cctv17HD
+东南卫视高清,http://www.kaniptv.cn/cqyx.php?id=dongnanHD
+东方卫视高清,http://www.kaniptv.cn/cqyx.php?id=shanghaiHD
+云南卫视高清,http://www.kaniptv.cn/cqyx.php?id=yunnanSD
+内蒙古卫视,http://www.kaniptv.cn/cqyx.php?id=neimengkuSD
+北京卫视高清,http://www.kaniptv.cn/cqyx.php?id=beijingHD
+吉林卫视高清,http://www.kaniptv.cn/cqyx.php?id=jilinHD
+四川卫视高清,http://www.kaniptv.cn/cqyx.php?id=sichuanHD
+天津卫视高清,http://www.kaniptv.cn/cqyx.php?id=tianjinHD
+宁夏卫视,http://www.kaniptv.cn/cqyx.php?id=ningxia
+安徽卫视高清,http://www.kaniptv.cn/cqyx.php?id=anhuiSD
+山西卫视,http://www.kaniptv.cn/cqyx.php?id=shanxiSD
+广东卫视高清,http://www.kaniptv.cn/cqyx.php?id=guangdongHD
+广西卫视高清,http://www.kaniptv.cn/cqyx.php?id=guangxiHD
+新疆卫视,http://www.kaniptv.cn/cqyx.php?id=xinjiangSD
+江苏卫视高清,http://www.kaniptv.cn/cqyx.php?id=jiangsuHD
+江西卫视高清,http://www.kaniptv.cn/cqyx.php?id=jiangxiHD
+河北卫视高清,http://www.kaniptv.cn/cqyx.php?id=hebeiSD
+河南卫视高清,http://www.kaniptv.cn/cqyx.php?id=henanHD
+浙江卫视高清,http://www.kaniptv.cn/cqyx.php?id=zhejiangHD
+海南卫视高清,http://www.kaniptv.cn/cqyx.php?id=hainanSD
+深圳卫视高清,http://www.kaniptv.cn/cqyx.php?id=shenzhenHD
+湖北卫视高清,http://www.kaniptv.cn/cqyx.php?id=hubeiSD
+湖南卫视高清,http://www.kaniptv.cn/cqyx.php?id=hunanHD
+西藏卫视,http://www.kaniptv.cn/cqyx.php?id=xizangSD
+贵州卫视高清,http://www.kaniptv.cn/cqyx.php?id=guizhouHD
+辽宁卫视高清,http://www.kaniptv.cn/cqyx.php?id=liaoningHD
+重庆卫视高清,http://www.kaniptv.cn/cqyx.php?id=chongqingHD
+青海卫视,http://www.kaniptv.cn/cqyx.php?id=qinghaiSD
+黑龙江卫视高清,http://www.kaniptv.cn/cqyx.php?id=heilongjiangHD
+三沙卫视,http://www.kaniptv.cn/cqyx.php?id=sanshaSD
+教育卫视,http://www.kaniptv.cn/cqyx.php?id=sdjiaoyuSD
+兵团卫视,http://www.kaniptv.cn/cqyx.php?id=bingtuanSD
+卡酷少儿,http://www.kaniptv.cn/cqyx.php?id=bjkakuSD
+金鹰卡通高清,http://www.kaniptv.cn/cqyx.php?id=jinyingSD
+重庆新闻高清,http://www.kaniptv.cn/cqyx.php?id=cqtvnewsHD
+重庆科教高清,http://www.kaniptv.cn/cqyx.php?id=cqtvkejiaoHD
+重庆影视高清,http://www.kaniptv.cn/cqyx.php?id=cqyingshiHD
+重庆文体娱乐高清,http://www.kaniptv.cn/cqyx.php?id=cqwtylHD
+重庆少儿高清,http://www.kaniptv.cn/cqyx.php?id=cqseHD
+重庆新农村高清,http://www.kaniptv.cn/cqyx.php?id=cqggncHD
+重庆时尚生活高清,http://www.kaniptv.cn/cqyx.php?id=cqssgwHD
+重庆汽摩高清,http://www.kaniptv.cn/cqyx.php?id=cqcarSD
+重庆社会与法HD,http://www.kaniptv.cn/cqyx.php?id=cqtvtrendyHD
+重庆移动高清,http://www.kaniptv.cn/cqyx.php?id=mryyHD
+重广融媒,http://www.kaniptv.cn/cqyx.php?id=cqrongmei
+爱看导视,http://www.kaniptv.cn/cqyx.php?id=aikanHD
+合川综合,http://www.kaniptv.cn/cqyx.php?id=hechuan
+长寿综合,http://www.kaniptv.cn/cqyx.php?id=changshou
+酉阳综合,http://www.kaniptv.cn/cqyx.php?id=youyang
+秀山综合,http://www.kaniptv.cn/cqyx.php?id=xiushan
+黔江综合,http://www.kaniptv.cn/cqyx.php?id=qianjiang
+巫山综合,http://www.kaniptv.cn/cqyx.php?id=wushanzhSD
+涪陵综合,http://www.kaniptv.cn/cqyx.php?id=fulingzh
+江津综合,http://www.kaniptv.cn/cqyx.php?id=jiangjinHD
+铜梁综合,http://www.kaniptv.cn/cqyx.php?id=tongliangzongheHD
+荣昌综合,http://www.kaniptv.cn/cqyx.php?id=rongchangHD
+巫溪综合,http://www.kaniptv.cn/cqyx.php?id=wlzh
+CETV-1,http://www.kaniptv.cn/cqyx.php?id=cetv-1SD
+CETV-4,http://www.kaniptv.cn/cqyx.php?id=cetv-4SD
+CGTN,http://www.kaniptv.cn/cqyx.php?id=cgtnSD
+求索纪录高清,http://www.kaniptv.cn/cqyx.php?id=qsjlHD
+百姓健康,http://www.kaniptv.cn/cqyx.php?id=jiankangSD
+快乐垂钓高清,http://www.kaniptv.cn/cqyx.php?id=klcdHD
+早期教育,http://www.kaniptv.cn/cqyx.php?id=zaojiaoHD
+东方财-经,http://www.kaniptv.cn/cqyx.php?id=dfcj
+证券服务,http://www.kaniptv.cn/cqyx.php?id=jiazheng
+收藏天下,http://www.kaniptv.cn/cqyx.php?id=soucang
+财富天下,http://www.kaniptv.cn/cqyx.php?id=caifu
+天元围棋,http://www.kaniptv.cn/cqyx.php?id=weiqi
+先锋乒羽,http://www.kaniptv.cn/cqyx.php?id=xianfeng
+环球旅游,http://www.kaniptv.cn/cqyx.php?id=huanqiulvyou
+纪实科教高清,http://www.kaniptv.cn/cqyx.php?id=bjayjsSD
+SiTV都市剧场高清,http://www.kaniptv.cn/cqyx.php?id=dsjcHD
+SiTV魅力足球高清,http://www.kaniptv.cn/cqyx.php?id=mlzqHD
+SiTV动漫秀场高清,http://www.kaniptv.cn/cqyx.php?id=dmxcHD
+SiTV游戏风云高清,http://www.kaniptv.cn/cqyx.php?id=yxfyHD
+SiTV生活时尚,http://www.kaniptv.cn/cqyx.php?id=shenghuo
+SiTV法治天地,http://www.kaniptv.cn/cqyx.php?id=fazhi
+SiTV金色学堂,http://www.kaniptv.cn/cqyx.php?id=jinse
+CHC高清电影,http://www.kaniptv.cn/cqyx.php?id=chcgqdyHD
+CHC动作电影,http://www.kaniptv.cn/cqyx.php?id=chcdzdyHD
+CHC家庭影院,http://www.kaniptv.cn/cqyx.php?id=chcjtyyHD
+CCTV风云剧场,http://www.kaniptv.cn/cqyx.php?id=shandongHD
+CCTV风云剧场高清,http://www.kaniptv.cn/cqyx.php?id=fyjcHD
+CCTV风云音乐高清,http://www.kaniptv.cn/cqyx.php?id=fyyyHD
+CCTV风云足球高清,http://www.kaniptv.cn/cqyx.php?id=fyzqHD
+CCTV怀旧剧场高清,http://www.kaniptv.cn/cqyx.php?id=hjjcHD
+CCTV第一剧场高清,http://www.kaniptv.cn/cqyx.php?id=diyijuchangHD
+CCTV兵器科技高清,http://www.kaniptv.cn/cqyx.php?id=bqkjHD
+CCTV央视文化精品,http://www.kaniptv.cn/cqyx.php?id=yswhHD
+CCTV高尔夫网球,http://www.kaniptv.cn/cqyx.php?id=golfHD
+CCTV央视台球,http://www.kaniptv.cn/cqyx.php?id=ystqHD
+CCTV女性时尚,http://www.kaniptv.cn/cqyx.php?id=nvxing
+家有购物,http://www.kaniptv.cn/cqyx.php?id=jygw
+央广购物,http://www.kaniptv.cn/cqyx.php?id=yggw
+风尚购物,http://www.kaniptv.cn/cqyx.php?id=fsgw
+家家购物,http://www.kaniptv.cn/cqyx.php?id=jjgw
+优购物,http://www.kaniptv.cn/cqyx.php?id=yougouwu
+聚鲨环球精选,http://www.kaniptv.cn/cqyx.php?id=jusha
+中视购物,http://www.kaniptv.cn/cqyx.php?id=ysgw
 CCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001451/index.m3u8?Ace
 CCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?Ace
 深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?Ace
@@ -59,7 +195,6 @@ TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 中天新聞台,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中天新聞台2,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
-
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -75,7 +210,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
-
 TVBPlus,http://vallest.uk/livehttpplay?channel_id=30023
 TVBPlus,http://vallest.uk/livehttpplay?channel_id=20122
 凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
@@ -97,7 +231,6 @@ RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
 RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
 RTHK-32,http://vallest.uk/livehttpplay?channel_id=20203
 RTHK-32,http://vallest.uk/livehttpplay?channel_id=30028
-
 超清专区,#genre#
 欢笑剧场4K超高清,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 湖南卫视4K,http://iptv.cqshushu.com/migu.php?pid=hunws4k&token=0125d9fbf2427fc887d5d160017d7c28
@@ -197,8 +330,6 @@ CHC影迷电影,http://nas.201606.xyz:4022/udp/239.10.0.88:5140
 卫电信4K,http://183.47.2.156:16883/rtp/239.77.0.129:5146
 广西IPTV,http://124.227.196.214:9988/rtp/239.81.0.253:4056
 广西IPTV,http://124.227.196.214:9988/rtp/239.81.0.251:4056
-
-
 重庆移动内网央卫,#genre#
 党建,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111099/1.m3u8
 CCTV-1,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111211/1.m3u8
@@ -342,7 +473,6 @@ iHOT爱喜剧,http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000006000010630/1.
 iHOT爱悬疑,http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000006000050630/1.m3u8
 iHOT爱幼教,http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000006000180630/1.m3u8
 iHOT爱院线,http://ltccq.cqa.bcs.ottcn.com/000000001666/6000000006000030630/1.m3u
-
 重庆移动内网儿童,#genre#
 黑莓动画,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111054/1.m3u8
 嘉佳卡通,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111077/1.m3u8
@@ -515,7 +645,6 @@ Plus综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 超级综艺,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111002/1.m3u8
 都市剧场,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111209/1.m3u8
 金牌综艺,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111067/1.m3u8
-
 港澳a组,#genre#
 1900影剧室,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
 爱星影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9476806
@@ -524,7 +653,6 @@ Plus综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 开箱嘤嘤怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=10319056
 神乐影片1,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 神乐影片2,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-
 港澳B组,#genre#
 AXN电影,http://iptv.4666888.xyz/iptv.php?id=20254
 HBO,http://iptv.4666888.xyz/iptv.php?id=20249
@@ -604,7 +732,6 @@ TVBS,http://iptv.4666888.xyz/iptv.php?id=20188
 中天CTI+,http://iptv.4666888.xyz/iptv.php?id=20181
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
 中天综合,http://iptv.4666888.xyz/iptv.php?id=20195
-
 港澳C组,#genre#
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 TVBPlus,https://live.tvfix.org/live/tvbplus/index.m3u8
@@ -625,9 +752,6 @@ TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
 无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-
-
-
 港澳F组,#genre#
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
@@ -676,8 +800,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 美亚电影国,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-
-
 港澳K组,#genre#
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -687,8 +809,6 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 💝运动频道,#genre#
 日本女子摔角,http://lxajh.top/tv/douyu.php?id=425809
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
 高码,#genre#
 睛彩竞技高码,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球高码,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
@@ -1128,12 +1248,10 @@ CCTV-14少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8
 CCTV-15音乐,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/1.m3u8
 CCTV-16奥林,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8
 CCTV-17农业,http://101.74.30.41:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-
 CCTV-1综合,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8
 CCTV-2财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/1.m3u8
 CCTV-3综艺,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226165/1.m3u8#
 CCTV-4中文国际,http://58.243.224.242:9999/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-
 CCTV-6电影,http://58.19.252.68:1111/tsfile/live/1005_1.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/1.m3u8#http://222.135.142.75:3283/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7国防军事,http://58.243.224.242:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-8电视剧,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/1.m3u8
@@ -1141,11 +1259,8 @@ CCTV-9纪录,http://58.243.224.242:9999/tsfile/live/1007_1.m3u8
 CCTV-10科教,http://58.243.224.242:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11戏曲,http://58.243.224.242:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-12社会与法,http://58.243.224.242:9999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-
 CCTV-14少儿,http://58.243.224.242:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-15音乐,http://58.243.224.242:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-
-
 北京卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8
 天津卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/1.m3u8
 河北卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226107/1.m3u8
@@ -1198,7 +1313,6 @@ CCTV-15音乐,http://58.243.224.242:9999/tsfile/live/1013_1.m3u8?key=txiptv&play
 江西卫视,http://58.243.224.242:9999/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 宁夏卫视,http://58.243.224.242:9999/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://58.243.224.242:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
-
 北京卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8
 天津卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/1.m3u8
 河北卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226107/1.m3u8
@@ -1234,14 +1348,6 @@ CCTV-15音乐,http://58.243.224.242:9999/tsfile/live/1013_1.m3u8?key=txiptv&play
 宁夏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226092/1.m3u8
 新疆卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226088/1.m3u8
 兵团卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/1.m3u8
-
-
-
-
-
-
-
-
 山东卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225733/1.m3u8
 山东齐鲁,http://58.58.111.222:808/hls/58/index.m3u8?key=txiptv
 山东新闻,http://58.58.111.222:808/hls/63/index.m3u8?key=txiptv
@@ -1251,56 +1357,31 @@ CCTV-15音乐,http://58.243.224.242:9999/tsfile/live/1013_1.m3u8?key=txiptv&play
 山东教育,http://58.58.111.222:808/hls/67/index.m3u8?key=txiptv
 山东少儿,http://58.58.111.222:808/hls/65/index.m3u8?key=txiptv
 山东体育,http://58.58.111.222:808/hls/62/index.m3u8?key=txiptv
-
-
 德州新闻,http://182.32.159.109:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 德州生活,http://182.32.159.109:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
-
 CCTV-6电影,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/1.m3u8#
-
 CHC影迷电影,http://m.061899.xyz/mg/ymdy
 CHC动作电影,http://m.061899.xyz/mg/dzdy
 CHC家庭影院,http://m.061899.xyz/mg/jtyy
-
-
-
-
-
-
 1905电影,http://150.138.77.132:10037/1905电影网.php?id=1905
 1905电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-
-
 CCTV-14少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8
-
-
 金色学堂,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 卡酷少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
 嘉佳卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/1.m3u8
 动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/1.m3u8
 哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
 金鹰卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
-
-
 CETV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
 CETV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 金鹰卡通,http://58.243.224.242:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 KAKU少儿,http://58.243.224.242:9999/tsfile/live/1036_1.m3u8?key=txiptv&playlive=0&authid=0
 华数哆啦A梦,http://39.72.203.246:7001/rtp/239.253.224.229:8000
-
 卡酷少儿,http://zqh2333.top:2222/rtp/239.93.24.208:5140
 哈哈炫动,http://zqh2333.top:2222/rtp/239.93.24.33:5140
 优漫卡通,http://zqh2333.top:2222/rtp/239.93.24.32:5140
 嘉佳卡通,http://zqh2333.top:2222/rtp/239.93.24.246:5140
 金鹰卡通,http://zqh2333.top:2222/rtp/239.93.24.108:5140 
-
-
-
 上海新闻,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
 上海都市,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
 法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
@@ -1318,9 +1399,6 @@ KAKU少儿,http://58.243.224.242:9999/tsfile/live/1036_1.m3u8?key=txiptv&playliv
 睛彩竞技,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
 睛彩篮球,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
 睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
-
-
-
 上海移动-央视V6,#genre#
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/1.m3u8
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/1.m3u8
@@ -1423,7 +1501,6 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 睛彩竞技,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
 睛彩篮球,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
 睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
-
 咪视通,#genre#
 咪咕4K-1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&
 咪咕4K-2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&
@@ -1472,7 +1549,6 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 咪视通-43,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&/PLTV/&hostip=&
 咪视通-44,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&/PLTV/&hostip=&
 咪视通-45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&/PLTV/&hostip=&
-
 上海移动-V4,#genre#
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -1506,7 +1582,6 @@ CETV1,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 CETV4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 CETV4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
-
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
@@ -1548,7 +1623,6 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
-
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
@@ -1575,8 +1649,6 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-
-
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -1635,7 +1707,6 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-
 咪咕视频1_8M1080,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226909/1.m3u8
 西甲2_8M1080,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226912/1.m3u8
 咪咕视频3_8M1080,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226918/1.m3u8
@@ -1696,7 +1767,6 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 咪咕视频57_5M1080,http://120.196.232.124:8088/PLTV/13/224/3221227954/1.m3u8
 咪咕视频58_5M1080,http://120.196.232.124:8088/PLTV/13/224/3221227956/1.m3u8
 咪咕视频59_5M1080,http://120.196.232.124:8088/PLTV/13/224/3221227960/1.m3u8
-
 CCTV1HD,http://ss.btc8080.top:8188/rtp/239.49.8.19:9614
 CCTV2HD,http://ss.btc8080.top:8188/rtp/239.49.8.50:9802
 CCTV3HD,http://ss.btc8080.top:8188/rtp/239.49.8.74:8000
@@ -1717,7 +1787,6 @@ CCTV164K(SDR),http://ss.btc8080.top:8188/rtp/239.49.0.109:8000
 CCTV16HD,http://ss.btc8080.top:8188/rtp/239.49.8.31:8000
 CCTV17HD,http://ss.btc8080.top:8188/rtp/239.49.8.52:9810
 CCTV4K,http://ss.btc8080.top:8188/rtp/239.49.0.82:8000
-
 江苏卫视HD,http://ss.btc8080.top:8188/rtp/239.49.8.16:9602
 江苏城市HD,http://ss.btc8080.top:8188/rtp/239.49.8.107:8000
 江苏综艺HD,http://ss.btc8080.top:8188/rtp/239.49.8.108:8000
@@ -1755,7 +1824,6 @@ CETV4HD,http://ss.btc8080.top:8188/rtp/239.49.0.125:8000
 三沙卫视HD,http://ss.btc8080.top:8188/rtp/239.49.0.167:8000
 甘肃卫视HD,http://ss.btc8080.top:8188/rtp/239.49.0.250:8000
 青海卫视HD,http://ss.btc8080.top:8188/rtp/239.49.0.81:8000
-
 金鹰纪实HD,http://ss.btc8080.top:8188/rtp/239.49.8.79:8000
 金鹰卡通HD,http://ss.btc8080.top:8188/rtp/239.49.8.33:8000
 中国天气HD,http://ss.btc8080.top:8188/rtp/239.49.0.94:8000
@@ -1782,8 +1850,6 @@ CGTN俄语HD,http://ss.btc8080.top:8188/rtp/239.49.0.111:8000
 广东民生,http://113.81.20.131:20443/tsfile/live/1006_1.m3u8
 广东新闻,http://113.81.20.131:20443/tsfile/live/1008_1.m3u8
 广东卫视4k,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
-
-
 232. 香港频道,#genre#
 237. 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 238. 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -1907,7 +1973,6 @@ TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 HOY78稳,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
 HOY78台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 HOY78,http://live4play.uk/livehttpplay?channel_id=20191
-
 港台vidio,#genre#
 翡翠台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-0-0.html
 HOY 78,video://http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/play-2-9-0.html
@@ -1996,14 +2061,10 @@ TVBPlus,http://live.tvfix.org/live/tvbplus/index.m3u8
 美亚电影,http://live.tvfix.org/live/mydy/index.m3u8
 天映经典,http://live.tvfix.org/live/tyjd/index.m3u8
 popc,http://live.tvfix.org/live/popc/index.m3u8
-
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 凤凰,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-
-
-
 央视频道,#genre#
 CCTV1,rtp://235.254.199.147:7980$1920×1080
 CCTV1,rtp://235.254.197.250:7980$1920×1080
@@ -2302,6 +2363,7 @@ IPTV电视剧,rtp://235.254.199.74:7980$1920×1080
 百事通宣传2,rtp://235.254.197.235:7980$1920×1080
 百事通预告,rtp://235.254.197.51:7980$720×576
 精彩影视,rtp://235.254.199.250:7980$1920×1080
+
 
 
 
