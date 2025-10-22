@@ -15,9 +15,7 @@ ipv6央视高清，#genre#
 四海钓鱼,http://www.kaniptv.cn/cqyx.php?id=diaoyu
 中国气象,http://www.kaniptv.cn/cqyx.php?id=tianqiSD
 车迷频道,http://www.kaniptv.cn/cqyx.php?id=doxtv
-
 SiTV欢笑剧场4K,http://www.kaniptv.cn/cqyx.php?id=hxjc_4K
-
 CCTV4K,http://www.kaniptv.cn/cqyx.php?id=CCTV4K
 CCTV16-4K,http://www.kaniptv.cn/cqyx.php?id=CCTV16_4k
 CCTV-1高清,http://www.kaniptv.cn/cqyx.php?id=cctv1HD
@@ -2363,6 +2361,7 @@ IPTV电视剧,rtp://235.254.199.74:7980$1920×1080
 百事通宣传2,rtp://235.254.197.235:7980$1920×1080
 百事通预告,rtp://235.254.197.51:7980$720×576
 精彩影视,rtp://235.254.199.250:7980$1920×1080
+
 
 
 
