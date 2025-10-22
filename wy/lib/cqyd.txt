@@ -1,7 +1,7 @@
 
-ipv6央视高清，#you#
+ipv6央视高清，#genre#
 
-
+CCTV4kK,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=$HEVC
 CCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001451/index.m3u8?Ace
 CCTV4K,https://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?Ace
 深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?Ace
@@ -2302,6 +2302,7 @@ IPTV电视剧,rtp://235.254.199.74:7980$1920×1080
 百事通宣传2,rtp://235.254.197.235:7980$1920×1080
 百事通预告,rtp://235.254.197.51:7980$720×576
 精彩影视,rtp://235.254.199.250:7980$1920×1080
+
 
 
 
