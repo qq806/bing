@@ -1561,6 +1561,12 @@
       "url": "./lib/cqyd.txt",
       "playerType": 2,
       "timeout": 10
+    },{
+      "name": "江苏银河",
+      "type": 0,
+      "url": "https://gitee.com/lb778899/pg/raw/master/TV/%E6%B1%9F%E8%8B%8F%E9%93%B6%E6%B2%B3.txt",
+      "playerType": 2,
+      "timeout": 10
     },
      {      
 "name": "wyzb",      
