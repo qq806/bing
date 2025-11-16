@@ -1198,7 +1198,7 @@
         {
             "name": "巧技",
             "type": 1,
-            "url": "https://zy.qiaoji8.com/neibu.php?url=",
+            "url": "http://101.201.171.207:9898/home/api?type=ys&uid=17303&key=blmorxyzBCDHKLM579&url=",
             "ext": {
                 "flag": [
                     "qq",
