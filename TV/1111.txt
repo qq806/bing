@@ -1,3 +1,30 @@
+CCTV-1,http://180.165.31.226:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://180.165.31.226:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://180.165.31.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://180.165.31.226:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://180.165.31.226:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://180.165.31.226:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://180.165.31.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://180.165.31.226:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-NEWS,http://180.165.31.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://180.165.31.226:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://180.165.31.226:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://180.165.31.226:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-新闻,http://180.165.31.226:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-少儿,http://180.165.31.226:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-音乐,http://180.165.31.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+上海综合频道,http://180.165.31.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+上海都市频道,http://180.165.31.226:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+上海东方影视,http://180.165.31.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+上海第一财经,http://180.165.31.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+上海五星体育,http://180.165.31.226:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+上海ICS,http://180.165.31.226:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://180.165.31.226:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://180.165.31.226:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://180.165.31.226:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://180.165.31.226:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://180.165.31.226:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://180.165.31.226:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 狂插一线天美鲍 恐怖喷水,https://t0.97img.com/a1001764/a.m3u8
 麻豆传媒映画 MD-0362 踢爆！淫僧释永信禅房实录 少林肉棒替女信徒消灾解厄 少林寺,https://t0.97img.com/a1001851/a.m3u8
 麻豆传媒映画 MD-0357 精华版 七夕情人双屄夹击 两任女友联手榨精 黎芷媗 欣晴,https://t0.97img.com/a1001850/a.m3u8
@@ -215,3 +242,4 @@ SDMUA-016 性爱争夺-栄川乃亜 一条みお,https://t27.cdn2020.com/video/m
 SDMUA-014 被一群有性欲的职业女性取代,https://t27.cdn2020.com/video/m3u8/2022/11/03/11591aee/index.m3u8
 VENU-237 禁忌的母子交换,https://t27.cdn2020.com/video/m3u8/2023/02/17/8143fea4/index.m3u8
 venu-555 巨乳淫乱-笹山希 松嶋真麻,https://t27.cdn2020.com/video/m3u8/2020/10/09/becc2da5/index.m3u8
+
