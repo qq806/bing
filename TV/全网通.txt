@@ -489,7 +489,8 @@ CGTN西,http://go.bkpcp.top/mg/cgtne
 CGTN阿,http://go.bkpcp.top/mg/cgtna
 CGTN法,http://go.bkpcp.top/mg/cgtnf
 
-4K高清,#genre#
+4K高清,#genre# 
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -505,9 +506,8 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 深圳4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.254:4056
 北京4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.226:4056
-
+广东4K,http://183.237.240.235:808/hls/66/index.m3u8
 广东4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-
 江苏4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
 江苏4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
 江苏4K,http://124.116.170.138:8081/rtp/239.111.205.64:5140            
@@ -520,18 +520,14 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 浙江卫视, https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
 深圳4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-
 四川4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 四川4K,http://124.116.170.138:8081/rtp/239.111.205.62:5140
-
 山东4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 山东4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140
 山东4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-
 河南4K,http://115.58.216.210:4000/rtp/225.1.4.254:1300$河南电信
 北京4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 北京4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-
 
 广州南国都市4K,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 电影专题,#genre#
@@ -634,6 +630,104 @@ CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8f
 刘老师说电影,https://isus.cc/php/huya.php?id=20289754
 恐怖电影解说,https://isus.cc/php/huya.php?id=16741179
 港台专题,#genre#
+ TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
+ TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+ 华丽翡翠台,http://cdn10.163189.xyz//stream/163189/jade
+ 天映频道,https://cdn10.163189.xyz/stream/163189/typd/
+ 天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
+ 澳门莲花,http://cdn6.163189.xyz/163189/amlh
+ hOY剧集台,http://cdn.163189.xyz/163189/hoyjj
+ 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+ 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+ TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
+ 翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
+ 明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
+ 明珠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/mzt/
+ 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+ 翡翠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct/
+ TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+ 华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+ 华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+ Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+ Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+ Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
+ 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+ 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+ 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
+ 龙华洋片台,http://cdn8.163189.xyz/163189/lhyp
+ 龙华洋片台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn02
+ 龙华电影台,http://cdn8.163189.xyz/163189/lhdy
+ 龙华电影台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
+ 龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
+ 龙华日韩台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn11
+ 龙华偶像台,http://cdn8.163189.xyz/163189/lhox
+ 龙华偶像台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn12
+ 龙华戏剧台,http://cdn8.163189.xyz/163189/lhxj
+ 龙华戏剧台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18
+ 龙华经典台,http://cdn8.163189.xyz/163189/lhjd
+ 龙华经典台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn21
+ 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+ 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
+明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
+无线新闻,http://pull-vivek.speedws.com/live/aaawxxw.flv
+TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
+TVB娱乐新闻台,http://pull-vivek.speedws.com/live/aaaylxw.flv
+华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
+亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
+黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
+爱ANI,http://pull-vivek.speedws.com/live/aaaAnimax.flv
+千禧经典台,http://pull-vivek.speedws.com/live/aaamqxjd.flv
+亚洲剧集台,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
+TVB戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
+天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+88跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv 
+HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
+HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
+HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
+ViuTV,http://pull-vivek.speedws.com/live/aaaviutv.fl
+ViuTV6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
+PopC电影,http://pull-vivek.speedws.com/live/aaapopc.flv
+美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
+AXN电影,http://pull-vivek.speedws.com/live/aaaAXN.flv
+ROCK ACTION,http://pull-vivek.speedws.com/live/aaarock2.flv
+ROCK ENTERTAINMENT,http://pull-vivek.speedws.com/live/aaarock1.flv
+RTHK31,http://cdn.163189.xyz/163189/rthk31
+RTHK32,http://cdn.163189.xyz/163189/rthk32
+八度空间,http://cdn6.163189.xyz/163189/8tv
+CHU,http://cdn6.163189.xyz/163189/chu
+CH5,http://cdn6.163189.xyz/163189/ch5
+CH8,http://cdn6.163189.xyz/163189/ch8
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华卡通,http://cdn8.163189.xyz/163189/lhkt
+Now星影(国),http://rihou.cc:555/tv/hktv%2F19nowxy
+Now爆谷(国),http://rihou.cc:555/tv/hktv%2F19nowbg
+Now华剧台,http://rihou.cc:555/tv/hktv%2F19nowhj
+Now剧集台,http://rihou.cc:555/tv/hktv%2F19nowjj
+TVB生活台,http://rihou.cc:555/tv/hktv%2F19tvbzt
+TVB功夫(国),http://rihou.cc:555/tv/hktv%2F19tvbgf
+美亚电影(台湾),http://rihou.cc:555/tv/hktv%2F19twmy
+中天新闻台,http://rihou.cc:555/tv/hktv%2F/19tw0811
+中视新闻台,http://rihou.cc:555/tv/hktv%2F/19tw0813
+TVBS HD,http://rihou.cc:555/tv/hktv%2F/19tw0812
+寰宇新闻台,http://rihou.cc:555/tv/hktv%2F/19tw0815
+1905电影,https://cdn.jdshipin.com/1905.php
+重温经典频道,https://cdn.jdshipin.com/cwjd.php
+汕头新闻综合,http://27.41.244.148:801/hls/901/index.m3u8
+汕头经济生活,http://27.41.244.148:801/hls/903/index.m3u8
+CHC家庭电影,http://27.41.244.148:801/hls/905/index.m3u8
+凤凰中文,http://27.41.244.148:801/hls/205/index.m3u8
+潮州综合,http://27.41.244.148:801/hls/200/index.m3u8
+揭阳综合,http://27.41.244.148:801/hls/301/index.m3u8
+潮州民生,http://183.237.240.235:808/hls/55/index.m3u8
 翡翠台,http://74.91.26.218:82/live/jsde.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -787,4 +881,5 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 生命电影,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
+
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
