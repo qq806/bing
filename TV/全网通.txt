@@ -598,6 +598,33 @@ CGTN阿,http://go.bkpcp.top/mg/cgtna
 CGTN法,http://go.bkpcp.top/mg/cgtnf
 
 4K高清,#genre# 
+四川视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.202:5140$四川组播1
+湖南视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.209:5140$四川组播1
+江苏视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.210:5140$四川组播1
+浙江视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.211:5140$四川组播1
+东方视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.212:5140$四川组播1
+山东视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.213:5140$四川组播1
+北京视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.198:5140$四川组播1
+深圳视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.199:5140$四川组播1
+广东视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.200:5140$四川组播1
+四川视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.202:5140$四川组播2
+湖南视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.209:5140$四川组播2
+江苏视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.210:5140$四川组播2
+浙江视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.211:5140$四川组播2
+东方视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.212:5140$四川组播2
+山东视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.213:5140$四川组播2
+北京视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.198:5140$四川组播2
+深圳视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.199:5140$四川组播2
+广东视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.200:5140$四川组播2
+四川视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.202:5140$四川组播3
+湖南视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.209:5140$四川组播3
+江苏视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.210:5140$四川组播3
+浙江视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.211:5140$四川组播3
+东方视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.212:5140$四川组播3
+山东视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.213:5140$四川组播3
+北京视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.198:5140$四川组播3
+深圳视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.199:5140$四川组播3
+广东视4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.200:5140$四川组播3
 四川4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.202:5140
 湖南4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.209:5140
 江苏4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.210:5140
@@ -1008,6 +1035,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
