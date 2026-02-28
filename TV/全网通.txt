@@ -598,7 +598,7 @@ CGTN阿,http://go.bkpcp.top/mg/cgtna
 CGTN法,http://go.bkpcp.top/mg/cgtnf
 
 4K高清,#genre# 
-北京K,http://bt.612526.xy2:5140/rtp/233.18.204.209:5140
+北京K,http://bt.612526.xyz:5140/rtp/233.18.204.209:5140
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 浙江卫视4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
 东方卫视4K,http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
@@ -1040,6 +1040,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
