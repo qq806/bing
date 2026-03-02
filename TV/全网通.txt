@@ -1,6 +1,37 @@
 央卫,#genre#
-东方卫视4k,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfws4k/8000000/mnf.m3u8
+东方卫视4k,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfwshd4k/8000000/mnf.m3u8
 东视k,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+
+CCTV-1,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV-2,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV-3,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8
+CCTV-4,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV-5,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+CCTV-5+,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV-6,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV-7,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV-8,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV-9,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV-10,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV-11,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV-12,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV-13,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv13hd8m/8000000/mnf.m3u8
+CCTV-14,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv14hd8m/8000000/mnf.m3u8
+CCTV-15,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV-16,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-17,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+
+江苏卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
+浙江卫视,	http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
+湖南卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hnws8m/8000000/mnf.m3u8
+东方卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfws8m/8000000/mnf.m3u8
+北京卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
+广东卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gdws8m/8000000/mnf.m3u8
+深圳卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/szws8m/8000000/mnf.m3u8
+湖北卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hbws8m/8000000/mnf.m3u8
+山东卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
+四川卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/scws8m/8000000/mnf.m3u8
+
 
 CCTV1,http://222.223.41.27:8888/hls/1/index.m3u8$河北
 CCTV2,http://222.223.41.27:8888/hls/2/index.m3u8$河北
@@ -1331,6 +1362,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
