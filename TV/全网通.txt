@@ -33,7 +33,7 @@ CCTV17,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000
 黑龙江卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hljws8m/8000000/mnf.m3u8
 吉林卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
 辽宁卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/lnws8m/8000000/mnf.m3u8
-内蒙古卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/nmg8m/8000000/mnf.m3u8
+内蒙古卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/nmghd8m/8000000/mnf.m3u8
 宁夏卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/lxwshd8m/8000000/mnf.m3u8
 甘肃卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
 青海卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qhwshd8m/8000000/mnf.m3u8
@@ -1380,6 +1380,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
