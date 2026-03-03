@@ -130,6 +130,46 @@ CCTV15,http://222.223.41.27:8888/hls/15/index.m3u8
 广东卫视,http://222.223.41.27:8888/hls/45/index.m3u8
 广西卫视,http://222.223.41.27:8888/hls/46/index.m3u8
 吉林卫视,http://222.223.41.27:8888/hls/47/index.m3u8
+CCTV1,http://221.237.79.205:85/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV2,http://221.237.79.205:85/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV3,http://221.237.79.205:85/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV4,http://221.237.79.205:85/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV5,http://221.237.79.205:85/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV5,http://221.237.79.205:85/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV6,http://221.237.79.205:85/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV7,http://221.237.79.205:85/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV8,http://221.237.79.205:85/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV9,http://221.237.79.205:85/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV10,http://221.237.79.205:85/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV11,http://221.237.79.205:85/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV12,http://221.237.79.205:85/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV13http://221.237.79.205:85/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV14,http://221.237.79.205:85/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+CCTV15,http://221.237.79.205:85/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0$重庆
+安徽卫视,http://221.237.79.205:85/tsfile/live/faacts/0130_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+浙江卫视,http://221.237.79.205:85/tsfile/live/faacts/0124_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+河南卫视,http://221.237.79.205:85/tsfile/live/faacts/0139_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+天津卫视,http://221.237.79.205:85/tsfile/live/faacts/0135_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+辽宁卫视,http://221.237.79.205:85/tsfile/live/faacts/0121_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+山东卫视,http://221.237.79.205:85/tsfile/live/faacts/0131_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+云南卫视,http://221.237.79.205:85/tsfile/live/faacts/0119_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+湖南卫视,http://221.237.79.205:85/tsfile/live/faacts/0128_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+北京卫视,http://221.237.79.205:85/tsfile/live/faacts/0122_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+上海卫视,http://221.237.79.205:85/tsfile/live/faacts/0107_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+江西卫视,http://221.237.79.205:85/tsfile/live/faacts/0138_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+贵州卫视,http://221.237.79.205:85/tsfile/live/faacts/0120_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+湖北卫视,http://221.237.79.205:85/tsfile/live/faacts/0132_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+重庆卫视,http://221.237.79.205:85/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+东南卫视,http://221.237.79.205:85/tsfile/live/faacts/0137_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+河北卫视,http://221.237.79.205:85/tsfile/live/faacts/0117_2.m3u8?key=txiptv&playlive=0&authid=0$重庆
+江苏卫视,http://221.237.79.205:85/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
+深圳卫视,http://221.237.79.205:85/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
+广西卫视,http://221.237.79.205:85/tsfile/live/faacts/0113_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
+吉林卫视,http://221.237.79.205:85/tsfile/live/faacts/0116_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
+山西卫视,http://221.237.79.205:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
+黑龙江卫视,http://221.237.79.205:85/tsfile/live/faacts/0143_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
+广东卫视,http://221.237.79.205:85/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
+四川卫视,http://221.237.79.205:85/tsfile/live/faacts/0123_1.m3u8?key=txiptv&playlive=0&authid=0$重庆
 
 CCTV1,http://156.238.248.80:8880/play/1.m3u8$mg
 CCTV2,http://156.238.248.80:8880/play/2.m3u8$mg
@@ -1426,6 +1466,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
