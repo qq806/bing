@@ -1,4 +1,56 @@
 央卫,#genre#
+CCTV1,http://223.95.198.3:8000/hls/1/index.m3u8$浙移动 
+CCTV2,http://223.95.198.3:8000/hls/2/index.m3u8$浙移动 
+CCTV3,http://223.95.198.3:8000/hls/3/index.m3u8$浙移动 
+CCTV4,http://223.95.198.3:8000/hls/4/index.m3u8$浙移动 
+CCTV5,http://223.95.198.3:8000/hls/5/index.m3u8$浙移动 
+CCTV6,http://223.95.198.3:8000/hls/6/index.m3u8$浙移动 
+CCTV7,http://223.95.198.3:8000/hls/7/index.m3u8$浙移动 
+CCTV8,http://223.95.198.3:8000/hls/8/index.m3u8$浙移动 
+CCTV9,http://223.95.198.3:8000/hls/9/index.m3u8$浙移动 
+CCTV10,http://223.95.198.3:8000/hls/10/index.m3u8$浙移动 
+CCTV11,http://223.95.198.3:8000/hls/11/index.m3u8$浙移动 
+CCTV12,http://223.95.198.3:8000/hls/12/index.m3u8$浙移动 
+CCTV13,http://223.95.198.3:8000/hls/13/index.m3u8$浙移动 
+CCTV14,http://223.95.198.3:8000/hls/14/index.m3u8$浙移动 
+CCTV15,http://223.95.198.3:8000/hls/15/index.m3u8$浙移动 
+CCTV16,http://223.95.198.3:8000/hls/16/index.m3u8$浙移动 
+CCTV17,http://223.95.198.3:8000/hls/17/index.m3u8$浙移动 
+CCTV4k,http://223.95.198.3:8000/hls/18/index.m3u8$浙移动 
+cgtn,http://223.95.198.3:8000/hls/19/index.m3u8$浙移动 
+凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8$浙移动 
+北京卫视,http://223.95.198.3:8000/hls/21/index.m3u8$浙移动 
+东方卫视,http://223.95.198.3:8000/hls/22/index.m3u8$浙移动 
+深圳卫视,http://223.95.198.3:8000/hls/23/index.m3u8$浙移动 
+浙江卫视,http://223.95.198.3:8000/hls/24/index.m3u8$浙移动 
+湖南卫视,http://223.95.198.3:8000/hls/25/index.m3u8$浙移动 
+天津卫视,http://223.95.198.3:8000/hls/26/index.m3u8$浙移动 
+河北卫视,http://223.95.198.3:8000/hls/27/index.m3u8$浙移动 
+江苏卫视,http://223.95.198.3:8000/hls/28/index.m3u8$浙移动 
+山东卫视,http://223.95.198.3:8000/hls/29/index.m3u8$浙移动 
+安徽卫视,http://223.95.198.3:8000/hls/30/index.m3u8$浙移动 
+河南卫视,http://223.95.198.3:8000/hls/31/index.m3u8$浙移动 
+湖北卫视,http://223.95.198.3:8000/hls/32/index.m3u8$浙移动 
+黑龙江卫视,http://223.95.198.3:8000/hls/33/index.m3u8$浙移动 
+辽宁卫视,http://223.95.198.3:8000/hls/34/index.m3u8$浙移动 
+吉林卫视,http://223.95.198.3:8000/hls/35/index.m3u8$浙移动 
+重庆卫视,http://223.95.198.3:8000/hls/36/index.m3u8$浙移动 
+四川卫视,http://223.95.198.3:8000/hls/37/index.m3u8$浙移动 
+广东卫视,http://223.95.198.3:8000/hls/38/index.m3u8$浙移动 
+广西卫视,http://223.95.198.3:8000/hls/39/index.m3u8$浙移动 
+江西卫视,http://223.95.198.3:8000/hls/40/index.m3u8$浙移动 
+海南卫视,http://223.95.198.3:8000/hls/41/index.m3u8$浙移动 
+甘肃卫视,http://223.95.198.3:8000/hls/42/index.m3u8$浙移动 
+陕西卫视,http://223.95.198.3:8000/hls/43/index.m3u8$浙移动 
+云南卫视,http://223.95.198.3:8000/hls/44/index.m3u8$浙移动 
+贵州卫视,http://223.95.198.3:8000/hls/46/index.m3u8$浙移动 
+青海卫视,http://223.95.198.3:8000/hls/47/index.m3u8$浙移动 
+nbtv1,http://223.95.198.3:8000/hls/48/index.m3u8$浙移动 
+nbtv2,http://223.95.198.3:8000/hls/49/index.m3u8$浙移动 
+浙江新闻,http://223.95.198.3:8000/hls/50/index.m3u8$浙移动 
+浙江6台,http://223.95.198.3:8000/hls/51/index.m3u8$浙移动 
+浙江少儿,http://223.95.198.3:8000/hls/52/index.m3u8$浙移动 
+
 CCTV1,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
@@ -738,6 +790,7 @@ CGTN阿,http://go.bkpcp.top/mg/cgtna
 CGTN法,http://go.bkpcp.top/mg/cgtnf
 
 4K高清,#genre# 
+CCTV4k,http://223.95.198.3:8000/hls/18/index.m3u8$浙移动 
 CCTV16  4K,http://bt.612526.xyz:5140/rtp/233.50.201.63:5140$花花组播
 北京卫视4K,http://bt.612526.xyz:5140/rtp/233.50.202.100:5140$花花组播
 广东卫视4K,http://bt.612526.xyz:5140/rtp/233.50.202.101:5140$花花组播
@@ -1371,6 +1424,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
