@@ -1,7 +1,7 @@
 央卫,#genre#
 CCTV1,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8
+CCTV3,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV4,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV5,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
 CCTV5+,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
@@ -1381,6 +1381,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
