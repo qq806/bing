@@ -801,8 +801,9 @@ CCTV16  4K,http://bt.612526.xyz:5140/rtp/233.50.201.63:5140$花花组播
 江苏卫视4K,http://bt.612526.xyz:5140/rtp/233.50.202.107:5140$花花组播
 山东卫视4K,http://bt.612526.xyz:5140/rtp/233.50.202.108:5140$花花组播
 四川卫视4K,http://bt.612526.xyz:5140/rtp/233.50.202.109:5140$花花组播
-欢笑剧场4k,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+欢笑剧场4K,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 欢笑剧场4K,http://bt.612526.xyz:5140/rtp/233.50.200.52:5140$花花组播
+绚影4K,http://171.213.208.67:4022/udp/239.94.1.150:5140
 BesTV-1 4K,http://bt.612526.xyz:5140/rtp/233.50.200.182:5140$花花组播
 BesTV-2 4K,http://bt.612526.xyz:5140/rtp/233.50.200.183:5140$花花组播
 BesTV-3 4K,http://bt.612526.xyz:5140/rtp/233.50.200.185:5140$花花组播
@@ -855,6 +856,7 @@ BesTV-3 4K,http://bt.612526.xyz:5140/rtp/233.50.200.185:5140$花花组播
 山东4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.208:5140
 CCTV-4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.184:5140
 欢笑剧场4K,http://sc-zb-lt.sohu.blog:5000/rtp/239.0.0.201:5140
+绚影4K,http://171.213.208.67:4022/udp/239.94.1.150:5140
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
@@ -1424,6 +1426,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
