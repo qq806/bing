@@ -136,75 +136,6 @@ CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8$mg
 陕西体育,http://156.238.248.80:8880/play/23.m3u8$mg
 辽宁体育,http://156.238.248.80:8880/play/24.m3u8$mg
 
-
-CCTV1,https://live.yst.de5.net/api/scgd.php?id=101
-CCTV2,https://live.yst.de5.net/api/scgd.php?id=801
-CCTV3,https://live.yst.de5.net/api/scgd.php?id=103
-CCTV4,https://live.yst.de5.net/api/scgd.php?id=39
-CCTV5,https://live.yst.de5.net/api/scgd.php?id=105
-CCTV5+,https://live.yst.de5.net/api/scgd.php?id=107
-CCTV6,https://live.yst.de5.net/api/scgd.php?id=12
-CCTV7,https://live.yst.de5.net/api/scgd.php?id=802
-CCTV8,https://live.yst.de5.net/api/scgd.php?id=118
-CCTV9,https://live.yst.de5.net/api/scgd.php?id=803
-CCTV10,https://live.yst.de5.net/api/scgd.php?id=804
-CCTV11,https://live.yst.de5.net/api/scgd.php?id=55
-CCTV12,https://live.yst.de5.net/api/scgd.php?id=805
-CCTV13,https://live.yst.de5.net/api/scgd.php?id=5
-CCTV14,https://live.yst.de5.net/api/scgd.php?id=806
-CCTV15,https://live.yst.de5.net/api/scgd.php?id=70
-CCTV17,https://live.yst.de5.net/api/scgd.php?id=817
-安徽卫视,https://live.yst.de5.net/api/scgd.php?id=807
- 北京卫视,https://live.yst.de5.net/api/scgd.php?id=110
- 重庆卫视,https://live.yst.de5.net/api/scgd.php?id=809
- 东方卫视,https://live.yst.de5.net/api/scgd.php?id=115
- 东南卫视,https://live.yst.de5.net/api/scgd.php?id=77
- 广东卫视,https://live.yst.de5.net/api/scgd.php?id=114
- 广西卫视,https://live.yst.de5.net/api/scgd.php?id=207
- 贵州卫视,https://live.yst.de5.net/api/scgd.php?id=138
- 海南卫视,https://live.yst.de5.net/api/scgd.php?id=206
- 河北卫视，https://live.yst.de5.net/api/scgd.php?id=203
- 黑龙江卫视,https://live.yst.de5.net/api/scgd.php?id=121
- 湖北卫视,https://live.yst.de5.net/api/scgd.php?id=120
- 河南卫视,https://live.yst.de5.net/api/scgd.php?id=79
- 吉林卫视,https://live.yst.de5.net/api/scgd.php?id=208
- 江苏卫视,https://live.yst.de5.net/api/scgd.php?id=112
- 江西卫视,https://live.yst.de5.net/api/scgd.php?id=202
- 辽宁卫视,https://live.yst.de5.net/api/scgd.php?id=808
- 湖南卫视,https://live.yst.de5.net/api/scgd.php?id=111
- 内蒙古卫视,https://live.yst.de5.net/api/scgd.php?id=217
- 青海卫视,https://live.yst.de5.net/api/scgd.php?id=204
- 山东卫视,https://live.yst.de5.net/api/scgd.php?id=117
- 山西卫视,https://live.yst.de5.net/api/scgd.php?id=201
- 陕西卫视,https://live.yst.de5.net/api/scgd.php?id=555
- 四川卫视,https://live.yst.de5.net/api/scgd.php?id=83
- 深圳卫视,https://live.yst.de5.net/api/scgd.php?id=109
- 天津卫视,https://live.yst.de5.net/api/scgd.php?id=119
- 西藏卫视,https://live.yst.de5.net/api/scgd.php?id=215
- 云南卫视,https://live.yst.de5.net/api/scgd.php?id=136
- 浙江卫视,https://live.yst.de5.net/api/scgd.php?id=113
- 兵团卫视,https://live.yst.de5.net/api/scgd.php?id=4003
- 康巴卫视],https://live.yst.de5.net/api/scgd.php?id=3494 
- 四川新闻,https://live.yst.de5.net/api/scgd.php?id=2096
- 四川乡村,https://live.yst.de5.net/api/scgd.php?id=2097
- 四川影视文艺,https://live.yst.de5.net/api/scgd.php?id=116
- 四川文化旅游,https://live.yst.de5.net/api/scgd.php?id=301
- 四川经济,https://live.yst.de5.net/api/scgd.php?id=302
- 四川妇儿,https://live.yst.de5.net/api/scgd.php?id=303
- 四川科教,https://live.yst.de5.net/api/scgd.php?id=304
- 峨眉电影,https://live.yst.de5.net/api/scgd.php?id=306
-CETV1,https://live.yst.de5.net/api/scgd.php?id=3393
-CETV2,https://live.yst.de5.net/api/scgd.php?id=391
-山东教育卫视,https://live.yst.de5.net/api/scgd.php?id=4002
-环球旅游,https://live.yst.de5.net/api/scgd.php?id=3333
-北京纪实科教,https://live.yst.de5.net/api/scgd.php?id=3340
-金鹰纪实,https://live.yst.de5.net/api/scgd.php?id=3445
-金鹰卡通,https://live.yst.de5.net/api/scgd.php?id=3446
-卡酷少儿,https://live.yst.de5.net/api/scgd.php?id=4001
-嘉佳卡通,https://live.yst.de5.net/api/scgd.php?id=3568	
-
-
-
 CCTV1,http://47.105.93.105:7002/608807420$mg2
 CCTV2,http://47.105.93.105:7002/631780532$mg2
 CCTV3,http://47.105.93.105:7002/624878271$mg2
@@ -1648,6 +1579,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 香港卫视,https://stream1.freetv.fun/6130c4439e91813125415b749209467f8da4f3d09d09ac80d7848321fc5e709e.m3u8
 
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+
 
 
 
